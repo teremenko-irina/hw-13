@@ -35,8 +35,8 @@ public class EmployeesTests {
 
     @Test
     public void testGetNameAfterInsert() {
-        int id = 10;
-        String name = "Anton";
+        int id = 11;
+        String name = "kate";
         String position = "Manual tester";
         int salary = 1500;
 
