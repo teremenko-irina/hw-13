@@ -1,0 +1,9 @@
+id, name, position, salary
+
+1,	Jane,	Frontend developer,	4000
+2,	Michael,	Backend developer,	4000
+3,	Alex,	Lead developer,	6000
+4,	Elizabeth,	UI UX designer,	2000
+5,	Christina,	HR-manager,	1500
+6,	Andrew,	QA engineer,	3000
+7,	Anna,	Software tester,	1000
